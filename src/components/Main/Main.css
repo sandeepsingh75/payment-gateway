@@ -1,0 +1,65 @@
+.mainContainer{
+    padding: 3rem 2rem;
+}
+
+.upperContainer{
+    display: flex;
+    flex-direction: row;
+}
+
+.balanceContainer{
+    flex: 1;
+}
+
+.Symbol{
+    display: inline-block;
+    background-color: #38db38;
+    height: 1.5rem;
+    width: 1.5rem;
+    font-size: 1rem;
+    font-weight: 500;
+    text-align: center;
+    margin: 0.5rem 0;
+}
+
+.amount{
+    display: inline-block;
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin: 0.5rem 0.5rem;
+}
+
+.newCard{
+    background-color: rgb(50,91,175);
+    color: white;
+    height: 2rem;
+    font-weight: 600;
+}
+
+.addImg{
+    margin: -3px 1px;
+}
+
+.unorderlist{
+    display: flex;
+    flex-direction: row;
+    color: black;
+    list-style: none;
+}
+
+.unorderlist li{
+    margin-right: 2rem;
+    font-weight: 500;
+}
+
+.cardcontainer{
+    
+}
+
+.card{
+    width: 90%;
+}
+
+.otherInformation{
+    width: 50%;
+}

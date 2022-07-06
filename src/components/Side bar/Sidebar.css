@@ -1,0 +1,32 @@
+.showCard{
+    font-size: 1rem;
+    color: green;
+}
+
+.sidebar{
+    background-color: rgb(12,54,90);
+    padding: 2rem 2rem;
+    /* height: 100vh; */
+}
+
+.details{
+    color: rgb(93, 114, 133);
+}
+
+.menu{
+    margin-top: 3rem;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.menuItem{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.items{
+    color: white;
+    font-weight: 600;
+}
